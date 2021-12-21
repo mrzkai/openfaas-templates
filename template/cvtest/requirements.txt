@@ -1,0 +1,7 @@
+opencv-python==4.2.0.32
+minio==7.0.2
+oss2==3.10.2
+baidu-aip==2.2.18.0
+numpy==1.19.3
+requests==2.25.1
+shapely==1.7.1
